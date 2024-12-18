@@ -1,6 +1,10 @@
-## Hi there :3
+## Ren
 
-=^..^=   =^..^=   =^..^=    =^..^=    =^..^=    =^..^=    =^..^=
+**`Artfulcreative (Designer/Gamer/Student)`**
+
+A ✨ Design Enthusiast ✨ that has a passion to make visually stunning designs. While I'm more experienced with Canva for creating impactful designs (mostly for school), I'm currently learning into the world of Figma to expand my skillset and also create a cool portfolio/website design for my friends.
+
+=^..^=   =^..^=   =^..^=    =^..^=    =^..^=    =^..^=    =^..^=    =^..^=   =^..^=   =^..^=    =^..^=    =^..^=    =^..^=    =^..^=    =^..^=   =^..^=   =^..^=    =^..^=    = 
 
 <!--
 **terence-tarrega/terence-tarrega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
