@@ -12,8 +12,9 @@
 
 ---
 
-=^..^=   =^..^=   =^..^=    =^..^=    =^..^=    =^..^=    =^..^=    =^..^=   =^..^=   =^..^=    =^..^=    =^..^=    =^..^=    =^..^=    =^..^=   =^..^=   =^..^=    =^..^=    =^..^=   =^..^=   =^..^=    =^..^=    =^..^=    =^..^=    
+=^..^=   =^..^=   =^..^=    =^..^=    =^..^=    =^..^=    =^..^=    =^..^=   =^..^=   =^..^=    =^..^=    =^..^=    =^..^=    =^..^=    =^..^=   =^..^=   =^..^=    =^..^=    =^..^=   =^..^=   =^..^=    =^..^=    =^..^=   
 
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terence-tarrega&layout=donut&bg_color=00000000)](https://github.com/terence-tarrega/github-readme-stats&bg_color=00000000)  &nbsp;&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terence-tarrega&show_icons=true&bg_color=00000000)
 
 </body>
