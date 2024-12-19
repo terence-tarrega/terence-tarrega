@@ -1,7 +1,7 @@
 ## Ren
 
   ⋅•⋅⋅•⋅⊰⋅•⋅⋅•⋅⋅•⋅⋅•⋅∙∘☽༓☾∘∙•⋅⋅⋅•⋅⋅⊰⋅•⋅⋅•⋅⋅•⋅⋅•⋅
-  **`Artfulcreative (Designer/Gamer/Student)`**
+  <br>**`Artfulcreative (Designer/Gamer/Student)`**</br>
   
   
 <body>
