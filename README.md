@@ -16,7 +16,11 @@
  
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terence-tarrega&layout=donut&bg_color=00000000)](https://github.com/terence-tarrega/github-readme-stats&bg_color=00000000)  &nbsp;&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terence-tarrega&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terence-tarrega&layout=donut&bg_color=140335)](https://github.com/terence-tarrega/github-readme-stats&bg_color=170252)  &nbsp;&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terence-tarrega&show_icons=true&bg_color=140335)
+
+---
+### Activity Graph based on Commits
+[![Mr.RySes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=terence-tarrega&bg_color=140335&color=18cda9&line=00f583&point=00ff11&area=true&hide_border=true)](https://github.com/terence-tarrega/github-readme-activity-graph)
 
 </body>
 
