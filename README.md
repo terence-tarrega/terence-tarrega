@@ -15,7 +15,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316nghatejsi4kwvyjfiqqwllp44&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
  
 
--._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.--._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.--._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-
+-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.--._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.--._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terence-tarrega&layout=donut&bg_color=140335)](https://github.com/terence-tarrega/github-readme-stats&bg_color=170252)  &nbsp;&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terence-tarrega&show_icons=true&bg_color=140335)
 
 ---
