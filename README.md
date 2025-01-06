@@ -17,7 +17,7 @@
    
 ---
 
-<img align="middle" alt="coding" width="100" border_color=2c1971 height="100" src="https://media.giphy.com/media/OkoScrMcY324r1j1HZ/giphy.gif">
+<img align="middle" alt="coding" width="100" border_color=2c1971 height="100" src="https://media.giphy.com/media/OkoScrMcY324r1j1HZ/giphy.gif"> <img align="middle" alt="coding" width="100" border_color=2c1971 height="100" src="https://media.giphy.com/media/yOCzPNwpMMlFUlfLk8/giphy.gif">
 
 ---
 ### Listening to Spotify
