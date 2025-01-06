@@ -20,8 +20,7 @@
 <img align="middle" alt="coding" width="100" border_color=2c1971 height="100" src="https://media.giphy.com/media/OkoScrMcY324r1j1HZ/giphy.gif"> <img align="middle" alt="coding" width="100" border_color=2c1971 height="100" src="https://media.giphy.com/media/yOCzPNwpMMlFUlfLk8/giphy.gif"> <img align="middle" alt="coding" width="100" border_color=2c1971 height="100" src="https://media.giphy.com/media/f6EDAZmAPye1H0H1OS/giphy.gif">
 
 ---
-### Listening to Spotify
-
+### Listening to:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31j2kx7jw6qprikxpb474uw66qrq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile) 
 
 
