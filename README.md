@@ -10,6 +10,7 @@
       <br>While I'm more experienced with Canva for creating impactful designs (mostly for school); I'm currently learning into the world of Figma to expand my skillset and also create a cool portfolio/website design for my friends.✨</br>
    <br>I'll try my best, this year...</br>
    <br>mostly depresssed now all the time...</br>
+   <br>skill issue on my side fr</br>
    </p>
 
 
