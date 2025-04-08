@@ -1,11 +1,14 @@
-## Ren ✨
-   .⋅•⋅⋅•⋅⊰⋅•⋅.⋅•⋅-⋅•⋅.⋅•⋅∙∘☽༓☾∘∙•⋅.⋅•⋅⋅-⋅•⋅.⋅•⋅⊰⋅•⋅⋅•⋅.
-  <br>**`Artfulcreative (Designer/Gamer/Student)`**</br>
+<h1 align="center">Terence Tarrega</h1>
+
+<h6 align="center">.⋅•⋅⋅•⋅⊰⋅•⋅.⋅•⋅-⋅•⋅.⋅•⋅∙∘☽༓☾∘∙•⋅.⋅•⋅⋅-⋅•⋅.⋅•⋅⊰⋅•⋅⋅•⋅.</h6>
+
+
+  <h6 align="center"><b>Artfulcreative (Designer/Gamer/Student)</b> </h6>
 <body>
-  <img align="right" alt="coding" width="400" padding="200" border_color=2c1971 height="200" src="https://64.media.tumblr.com/6b9d5fbcc7d6ebe2c3636ed25a550787/f02e19988b551a66-43/s1280x1920/311bc898f00d0bea349351a7a36333f9f659f645.gifv" mejwh on Tumblr>
-  <p align="center">
+  <img align="center" alt="coding" width="400" border_color=2c1971 height="200" src="https://64.media.tumblr.com/6b9d5fbcc7d6ebe2c3636ed25a550787/f02e19988b551a66-43/s1280x1920/311bc898f00d0bea349351a7a36333f9f659f645.gifv" mejwh on Tumblr>
+  
+   <p align="left">
 <br>
-   <p>
         A <b>Design Enthusiast</b> with a passion to make visually stunning designs! 
       <br>While I'm more experienced with Canva for creating impactful designs (mostly for school); I'm currently learning into the world of Figma to expand my skillset and also create a cool portfolio/website design for my friends.✨</br>
    <br>I'll try my best, this year...</br>
