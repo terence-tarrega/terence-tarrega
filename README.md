@@ -7,7 +7,7 @@
   
   <body>
    <p align="left">
-<br>Artfulcreative (Designer/Gamer/Student)
+<h5>Artfulcreative (Designer/Gamer/Student)</h5>
     <br>
         A <b>First-Year College Student</b> with a passion to make visually stunning designs! 
       <br>While I'm more experienced with Canva for creating impactful designs (mostly for school); I'm currently learning into the world of Figma to expand my skillset and also create a cool portfolio/website design for my friends.✨</br>
