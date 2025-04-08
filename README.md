@@ -11,6 +11,7 @@
       <br>While I'm more experienced with Canva for creating impactful designs (mostly for school); I'm currently learning into the world of Figma to expand my skillset and also create a cool portfolio/website design for my friends.✨</br>
    </p>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
   </body>
  
 
