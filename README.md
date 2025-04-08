@@ -9,9 +9,12 @@
         A <b>First-Year College Student</b> with a passion to make visually stunning designs! 
       <br>While I'm more experienced with Canva for creating impactful designs (mostly for school); I'm currently learning into the world of Figma to expand my skillset and also create a cool portfolio/website design for my friends.✨</br>
    </p>
+   <img align=left width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+
+
   </body>
  
 
@@ -20,6 +23,8 @@
    <img align="left" alt="coding" width="100" border_color=2c1971 height="100" src="https://media.giphy.com/media/OkoScrMcY324r1j1HZ/giphy.gif"> 
    <img align="right" alt="coding" width="100" border_color=2c1971 height="100" src="https://media.giphy.com/media/yOCzPNwpMMlFUlfLk8/giphy.gif">
 <div align="center">   
+
+          
    
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31j2kx7jw6qprikxpb474uw66qrq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
 </div>
